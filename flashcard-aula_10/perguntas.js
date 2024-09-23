@@ -1,23 +1,33 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'Quando começou a 2 Guerra Mundial?',
+    'Foi no dia 1 de Setembro de 1939.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quantos estados tem o Brasil?',
+    'O brasil tem 26 estados, além do DF'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Matemática',
+    'Qual é a raiz quadrada de 49?',
+    'A raiz quadrada de 49 é 7'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz fraco em inglês?',
+    'Fraco em ingles é weak (UEAK)'
+)
+criaCartao(
+    'Biologia',
+    'Qual é o maior orgâo humano?',
+    'O maior orgão humano é a pele!'
+)
+criaCartao(
+    'Física',
+    'Qual e a formula da 3 lei de Newton?',
+    'A fórmula é F = m . a (Força é igual a massa vezes aceleração).'
 )
